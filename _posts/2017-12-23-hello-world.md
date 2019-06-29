@@ -1,9 +1,5 @@
 ---
-layout: post
-title: Hello World!
-tags: Hydrogen
+title: 我的第一遍文章
 ---
 
-Welcome to Hydrogen!<br>If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!
-
-> Hello Hydrogen!
+今天弄了一天，终于把博客搭好了，这篇文章是发表出来做个试验的，哈哈哈。
